@@ -43,10 +43,12 @@ width: auto;}
   
 }
 #lady {
-  height: 500px;
-  width: auto;
+  height: 700px;
+  width: auto;}
 
-
+#home 
+{height: 700px
+width: auto;}
 }
 body {
   margin: 0 auto;
