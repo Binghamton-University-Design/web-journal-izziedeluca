@@ -18,6 +18,9 @@ main {
 aside {
   grid-column: span 4;
 }
+#xmas
+{height: 700px
+width: auto;}
 
 @media (max-width: 700px) {
   
