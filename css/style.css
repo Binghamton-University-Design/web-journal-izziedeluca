@@ -1,4 +1,4 @@
-#wrapper {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 #wrapper {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   /*grid-template-rows: 10vw 30vw 10vw;*/
@@ -39,12 +39,19 @@ aside {
   }
   
 }
+#lady {
+  height: 500px;
+  width: auto;
 
+
+}
 body {
   margin: 0 auto;
   max-width: 960px;
 }
-
+#icon 
+{height: 600px;
+width: auto;}
 #masthead, #footer {
  margin: 0 1em; 
 }
